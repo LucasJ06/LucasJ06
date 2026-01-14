@@ -55,7 +55,7 @@ Tenho 22 anos, moro em São Paulo e atuo há 4 anos na área de **People Analyti
 ---
 
 <p align="center">
-  <a href="[Lucas Juan]https://www.linkedin.com/in/ljuansantos/">
+  <a href="https://www.linkedin.com/in/ljuansantos/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="ljuan.santos06@gmail.com">
